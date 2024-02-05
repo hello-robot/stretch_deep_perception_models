@@ -2,7 +2,7 @@
 
 ## Overview
 
-*stretch_deep_perception_models* provides open deep learning models from third parties for use with the Stretch RE1 mobile manipulator from Hello Robot Inc. 
+*stretch_deep_perception_models* provides open deep learning models from third parties for use with the Stretch mobile manipulators from Hello Robot Inc. 
 
 This repository should be located under ~/stretch_user/ on the robot.
 
